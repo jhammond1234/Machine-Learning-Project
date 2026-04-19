@@ -1,4 +1,4 @@
-# Hydro-Assignment-3: LSTM Streamflow Prediction in the Uinta Basin
+# LSTM Streamflow Prediction in the Uinta Basin
 
 ![alt text](image.png)
 
